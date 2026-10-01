@@ -20,8 +20,9 @@ Finalmente la función para ampliar las imágenes de la tarjetas; al hacer click
 - CSS
 - JavaScript
 - Funciones JS reutilizables
-- Detectores de Clicks
+- Detectores de clics
 - Metodología BEM
+- Flexbox
 - Grid Layout
 - Git
 - GitHub
