@@ -138,7 +138,7 @@
 .popup__button_disabled {
   color: gray;
   background-color: white;
-  border: gray solid;
+  border: gray solid thin;
   cursor: not-allowed;
 }
 
