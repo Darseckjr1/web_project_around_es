@@ -117,6 +117,36 @@
   margin: 0;
 }
 
+.popup__field {
+  display: block;
+  position: relative;
+}
+
+.popup__error {
+  visibility: hidden;
+}
+
+.popup__error_visible {
+  visibility: visible;
+  color: red;
+}
+
+.popup__input_type_error {
+  border-bottom: solid red;
+}
+
+.popup__button_disabled {
+  color: gray;
+  background-color: white;
+  border: gray solid;
+  cursor: not-allowed;
+}
+
+.popup__button_disabled:hover {
+  background-color: white;
+  cursor: not-allowed;
+}
+
 @media screen and (max-width: 544px) {
   .popup {
     bottom: 112px;
