@@ -19,6 +19,8 @@ Finalmente la función para ampliar las imágenes de la tarjetas; al hacer click
 - HTML
 - CSS
 - JavaScript
+- TypeScript
+- POO
 - Funciones JS reutilizables
 - Detectores de clics
 - Metodología BEM
